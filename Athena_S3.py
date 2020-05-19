@@ -5,8 +5,9 @@
     - S3 Access Log Bucket for Source bucket
     - S3 Log bucket for Athena
     - Athena Database and Table
+    - Athena Workgroup
 - Developer - K.Janarthanan
-- Date - 16/5/2020
+- Date - 18/5/2020
 '''
 
 import boto3
