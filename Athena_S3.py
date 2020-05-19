@@ -18,6 +18,7 @@ import random
 import os
 from botocore.exceptions import ClientError
 
+os.environ['AWS_DEFAULT_REGION']='ap-southeast-1'
 
 regions=boto3.client('ec2')
 response=regions.describe_regions()
