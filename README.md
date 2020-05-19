@@ -9,5 +9,5 @@ Architecture
 Flow Diagram
 -------------
 
-![alt text](https://github.com/kujalk/S3_with_Athena/blob/master/Flow_diagram.PNG)
+![alt text](https://github.com/kujalk/S3_with_Athena/blob/master/Flow%20Chart.png)
 
